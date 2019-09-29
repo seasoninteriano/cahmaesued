@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpheehuch.badgerdash.net/sitemap.xml
